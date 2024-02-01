@@ -1,7 +1,7 @@
 title: "Dohela | Hacking World"
 email: dohela@proton.me
 timezone: UTC
-baseurl: ""
+site.baseurl: ""
 permalink: "/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
