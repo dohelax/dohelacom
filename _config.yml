@@ -3,7 +3,7 @@
 title: Dohela | Hacking World
 logo: # You can add own logo. For example '/images/logo.png'.
 description: Hacking World.
-baseurl: "/" # The subpath of your site, e.g. /blog
+baseurl: "dohela.com/" # The subpath of your site, e.g. /blog
 url: "https://dohela.com" # The base hostname & protocol for your site, e.g. http://example.com
 
 
