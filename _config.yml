@@ -1,7 +1,7 @@
-title: "Affiliates"
-email: wowthemesnet@gmail.com
+title: "Dohela | Hacking World"
+email: dohelasec@proton.me
 timezone: UTC
-baseurl: "dohela.com"
+baseurl: ""
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
